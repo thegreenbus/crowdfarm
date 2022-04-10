@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "644070511163",
+    "project_id": "crowdfarm-7544b",
+    "storage_bucket": "crowdfarm-7544b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644070511163:android:feb6ecf28bb1152445c21e",
+        "android_client_info": {
+          "package_name": "com.mind.crowdfarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644070511163-il2oue4jbadaorhuss0hm2q154mse6v7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mind.crowdfarm",
+            "certificate_hash": "0188b5c467c10acead6674d5e4636081b002b2bf"
+          }
+        },
+        {
+          "client_id": "644070511163-59tadus7439f5h3mc00tn1r184plttk8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqXFKrnU1BF1R3r7LS6T1a004M4CsI9p8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644070511163-59tadus7439f5h3mc00tn1r184plttk8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

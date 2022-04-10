@@ -1,10 +1,10 @@
-# FarmerSoko
+# CrowdFarm
 A Blockchain Based Crowd Funding Platform
 Made with flutter and smart Contracts.
 
 ## Idea
 * We want to make a decentralized system where no authority is involved using Blockchain technology.
-So we came up with FarmerSoko, a platform which allows users to raise funds for purchasing products for their personal and professional needs.
+So we came up with CrowdFarm, a platform which allows users to raise funds for purchasing products for their personal and professional needs.
 
 * Our app benefits both the investor as well as the fund raiser which most likely will be the farmer.
 The fund raiser is able to buy the product now and pay the investor later. 
